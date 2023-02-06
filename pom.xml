@@ -17,6 +17,7 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<packaging>war</packaging>
+	<finalName>sample</finalName>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
